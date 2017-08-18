@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "SceneDungeon.data.unityweb",
+"asmCodeUrl": "SceneDungeon.asm.code.unityweb",
+"asmMemoryUrl": "SceneDungeon.asm.memory.unityweb",
+"asmFrameworkUrl": "SceneDungeon.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
